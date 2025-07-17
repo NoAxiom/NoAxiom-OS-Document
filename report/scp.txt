@@ -1,0 +1,7 @@
+sudo scp -i /Users/yu_xuaan/Desktop/work/key/8h16g.pem \
+ecs-user@118.178.112.46:/home/ecs-user/os/NoAxiom-OS/NoAxiom-OS-Document/report/report.pdf \
+/Users/transfer
+
+sudo scp -i /Users/yu_xuaan/Desktop/work/key/8h16g.pem \
+ecs-user@118.178.112.46:/home/ecs-user/os/NoAxiom-OS/NoAxiom-OS-Document/report/assets/driver/struct.svg \
+/Users/transfer
